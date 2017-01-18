@@ -1,2 +1,1 @@
-node 'node-01' { }
-
+node 'node-01' { include ::docker}
